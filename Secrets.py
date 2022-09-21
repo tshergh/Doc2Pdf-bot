@@ -1,1 +1,1 @@
-TOKEN = ""
+TOKEN = os.environ.get("TOKEN")
